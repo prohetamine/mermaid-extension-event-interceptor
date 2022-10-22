@@ -1,0 +1,36 @@
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"1\"],\"callback\":null,\"method\":\"onAuthResponse\"}","timeStamp":1666456552629,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"See my yoga moves [400 tokens left]\",\"0\"],\"callback\":null,\"method\":\"onTitleChange\"}","timeStamp":1666456552897,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"\",\"1\"],\"callback\":null,\"method\":\"onTitleChange\"}","timeStamp":1666456552937,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"See my yoga moves [393 tokens left]\",\"1\"],\"callback\":null,\"method\":\"onTitleChange\"}","timeStamp":1666456569250,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"{\\\"type\\\": \\\"refresh_panel\\\", \\\"send_to\\\": \\\"\\\", \\\"tid\\\": \\\"16664565692:30993\\\"}\"],\"callback\":null,\"method\":\"onNotify\"}","timeStamp":1666456569418,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"See my yoga moves [392 tokens left]\",\"1\"],\"callback\":null,\"method\":\"onTitleChange\"}","timeStamp":1666456591018,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"{\\\"type\\\": \\\"refresh_panel\\\", \\\"send_to\\\": \\\"\\\", \\\"tid\\\": \\\"16664565909:77248\\\"}\"],\"callback\":null,\"method\":\"onNotify\"}","timeStamp":1666456591060,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"See my yoga moves [391 tokens left]\",\"1\"],\"callback\":null,\"method\":\"onTitleChange\"}","timeStamp":1666456593670,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"{\\\"type\\\": \\\"refresh_panel\\\", \\\"send_to\\\": \\\"\\\", \\\"tid\\\": \\\"16664565934:63292\\\"}\"],\"callback\":null,\"method\":\"onNotify\"}","timeStamp":1666456593731,"type":"message"}]
+
