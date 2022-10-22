@@ -1,0 +1,14 @@
+{
+  "name": "mermaid-extension-event-interceptor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-mermaid-extension": "^1.0.1"
+  },
+  "description": ""
+}
