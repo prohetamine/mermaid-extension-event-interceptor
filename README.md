@@ -1,0 +1,1 @@
+# mermaid-extension-event-interceptor
