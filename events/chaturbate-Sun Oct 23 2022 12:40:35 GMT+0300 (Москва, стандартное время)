@@ -1,0 +1,16 @@
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"1\"],\"callback\":null,\"method\":\"onAuthResponse\"}","timeStamp":1666518057102,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[],\"callback\":null,\"method\":\"onNotifyPrivateShowCancel\"}","timeStamp":1666518057417,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"1\"],\"callback\":null,\"method\":\"onAuthResponse\"}","timeStamp":1666518237191,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[],\"callback\":null,\"method\":\"onNotifyPrivateShowCancel\"}","timeStamp":1666518237558,"type":"message"}]
+
