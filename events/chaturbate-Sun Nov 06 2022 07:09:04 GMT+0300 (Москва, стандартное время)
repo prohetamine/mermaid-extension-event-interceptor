@@ -1,0 +1,20 @@
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"1\"],\"callback\":null,\"method\":\"onAuthResponse\"}","timeStamp":1667707783347,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"\",\"1\"],\"callback\":null,\"method\":\"onTitleChange\"}","timeStamp":1667707783645,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"{\\\"type\\\": \\\"refresh_panel\\\", \\\"send_to\\\": \\\"\\\", \\\"tid\\\": \\\"16677077926:80783\\\"}\"],\"callback\":null,\"method\":\"onNotify\"}","timeStamp":1667707792797,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"{\\\"type\\\": \\\"refresh_panel\\\", \\\"send_to\\\": \\\"\\\", \\\"tid\\\": \\\"16677078241:65167\\\"}\"],\"callback\":null,\"method\":\"onNotify\"}","timeStamp":1667707824376,"type":"message"}]
+
+---------------------------------
+
+[{"bubbles":false,"cancelable":false,"data":"{\"args\":[\"isaiahhq\",\"jeremysolo2\"],\"callback\":null,\"method\":\"onSilence\"}","timeStamp":1667707838537,"type":"message"}]
+
