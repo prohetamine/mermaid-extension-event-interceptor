@@ -15,7 +15,7 @@ const intercepter = ({ fetch, test }) => {
   fetch.usePost('/events', ({ event, parseBase64, sendMessageSocket, nextPlugin }) => {
 
     if (!event.isParsedEvent) {
-      const data = `---------------------------------\n\n${JSON.stringify(parseBase64(event.pureEvent))}\n\n`
+      const data = `---------------------------------\n\n${parseBase64(event.pureEvent)}\n\n`
 
       fs.appendFileSync(path.join(__dirname, 'events', event.platform + '-' + date), data)
     }
